@@ -1,0 +1,17 @@
+.orange-bg{
+    background-color: #FEEAE9;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #FF589B;
+}
+.btn{
+    background-color: #FF589B;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
